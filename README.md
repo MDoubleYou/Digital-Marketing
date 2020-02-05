@@ -8,3 +8,5 @@ For this effort, I created a marketing strategy for myself, creating a blog post
 I designed a B2B marketing approach to target professionals interested in digital marketing training programs for their organization using Facebook Ads Manager.
 # 4. Facebook Ad Campaign (Part 2)
 In the second part of this campaign, I analyzed and presented campaign metrics against the marketing objective and KPI to assess the effectiveness of my marketing approach.
+# 5. SEO Audit
+This project highlights my experience in planning an SEO audit through identification of target keywords, analysis of site metadata, identication of prospects for backlinks, and site performance testing (mobile and desktop).
