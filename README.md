@@ -12,3 +12,5 @@ In the second part of this campaign, I analyzed and presented campaign metrics a
 This project highlights my experience in planning an SEO audit through identification of target keywords, analysis of site metadata, identication of prospects for backlinks, and site performance testing (mobile and desktop).
 # 6. SEM Google Ads Campaign
 For this effort, I created and analyzed a Google Ads campaign with two ad groups to generate new leads to one of the free computer programming courses offered by Udacity.
+# 7. Evaluating a Display Campaign
+This project entails a detailed evaluation of three, different display ad campaigns and opportunities for future improvement to the campaign based on analysis.
