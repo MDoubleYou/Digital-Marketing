@@ -16,3 +16,5 @@ For this effort, I created and analyzed a Google Ads campaign with two ad groups
 This project entails a detailed evaluation of three, different display ad campaigns and opportunities for future improvement to the campaign based on analysis.
 # 8. Market with Email Campaign
 In this effort, I designed a three-pronged email marketing approach to increase the likelihood of conversions to enroll in Udacity's Corporate Training program using MailChimp.
+# 9. Portfolio
+The final project for Udacity's Digital Marketing Nanodegree certification includes designing a comprehensive B2B marketing approach to incentivize conversions to Udacity's Corporate Training Program - including budget allocation plans across the various stages of the customer journey - using content marketing, Facebook Ad campaigns, AdWords campaigns, SEO audits, Display Ad Campaigns, and an Email Marketing campaign.
