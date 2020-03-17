@@ -14,3 +14,5 @@ This project highlights my experience in planning an SEO audit through identific
 For this effort, I created and analyzed a Google Ads campaign with two ad groups to generate new leads to one of the free computer programming courses offered by Udacity.
 # 7. Evaluating a Display Campaign
 This project entails a detailed evaluation of three, different display ad campaigns and opportunities for future improvement to the campaign based on analysis.
+# 8. Market with Email Campaign
+In this effort, I designed a three-pronged email marketing approach to increase the likelihood of conversions to enroll in Udacity's Corporate Training program using MailChimp.
